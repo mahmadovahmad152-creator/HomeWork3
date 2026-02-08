@@ -61,7 +61,7 @@ font-size: 20px;
 .s2{
     position: absolute;
     margin-top: -150px;
-    margin-left: 1450px;
+    margin-left: 1400px;
 }
 .s3{
     width: 100%;
@@ -199,8 +199,8 @@ font-size: 20px;
     margin-bottom: 400px;
 }
 .text5{
-    width: 99%;
-    margin-left: 10px
+    width: 98%;
+   
 }
 .text6 {
 font-size: 50px;
@@ -212,7 +212,7 @@ color: white;
 }
 .text7{
     margin-top: 480px;
-    margin-left: -1400px;
+    margin-left: -1380px;
   position: absolute;
  
 }
@@ -220,8 +220,8 @@ color: white;
     color: #0E9E2F;
     font-size: 25px;
     position: absolute;
-    margin-top: -320px;
-    margin-left: 190px;
+    margin-top: -310px;
+    margin-left: 170px;
 }
 .text9{
     font-size: 20px;
@@ -269,4 +269,19 @@ color: #b4b2b2;
     margin-left: 850px;
     margin-top: 120px;
 color: #b4b2b2; 
+}
+.div7{
+    margin-top: 300px;
+    font-size: 35px;
+    margin-left: 40px;
+}
+.div8{
+    margin-left: 990px;
+    margin-top: -100px;
+}
+.div9{
+    width: 1200px;
+    margin-left: 150px;
+    margin-top: 50px;
+
 }
