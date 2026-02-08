@@ -285,3 +285,28 @@ color: #b4b2b2;
     margin-top: 50px;
 
 }
+.box{
+    width: 100%;
+    margin-top: 100px;
+}
+.box1{
+    /* position: absolute; */
+    text-align: center;
+    margin-top: -220px;
+    color: white;
+    font-size: 35px;
+}
+.box2{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+.box3{
+    width: 200px;
+    height: 35px;
+    margin-left: 660px;
+    margin-top: 40px;
+    background-color: #0E9E2F;
+    border: #0E9E2F;
+    color: white;
+}
